@@ -1,4 +1,4 @@
-![Gluten](docs/image/gluten-logo.svg)
+![Gluten](docs/image/gluten-logo.svg).
 
 # Apache Gluten (Incubating): A Middle Layer for Offloading JVM-based SQL Engines' Execution to Native Engines
 
